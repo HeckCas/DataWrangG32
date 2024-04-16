@@ -11,6 +11,8 @@
 
 · [Challenge práctica de Pandas](https://drive.google.com/file/d/1uOMz9k4WzMJD9hQMmNp_Bq9v_I3dpLda/view?usp=drive_link)
 
+· [Challenge práctica de Pandas_RESUELTO](https://colab.research.google.com/drive/1FCT1Sl63Nqry8jarhFIIbcoVXKDnnhnh)
+
 · [Carpeta con datos para ejercicio de pandas](https://drive.google.com/drive/folders/1ksNbF0DzgHOr8KGpK12jQ11Hfst-E4tD)
 
 
