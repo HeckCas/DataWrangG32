@@ -42,13 +42,15 @@
 
 · [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=sharing)
 
+· [Colab de APIs_VERSION_RESUELTA_EN_CLASE](https://colab.research.google.com/drive/10ps_0_bb61zeknagv_dBAqkvoln7uNWH)
+
 
 __Documentación de APIs Utilizadas en clase__
 
 
 
  - [Documentación de SWAPI](https://swapi.tech/)
- - [Documentación de Coingecko](https://www.coingecko.com/api/documentation)
+ - [Documentación de Coingecko](https://docs.coingecko.com/v3.0.1/reference/introduction)
  - [Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
 
 
