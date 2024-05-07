@@ -75,6 +75,9 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 [Colab Web Scrapping](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
 
 
+[Colab Web Scrapping VERSION RESUELTA EN CLASE](https://github.com/HeckCas/DataWrangG32/blob/main/scrap32.ipynb)
+
+
 
 ### Sesión 7 - Construye tu API 🤖 🕷
 
