@@ -83,4 +83,18 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 [Código base](https://drive.google.com/file/d/1CUEBBmHW5uk7G5OC0Jmn8NaAR5hR8dyc/view?usp=drive_link)
 
+Descargar __Postman__
+
+[Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
+
+
+
+### Sesión 8 - Deploy API a Producción 🤖 🕷 MODO Video
+
+Crear cuenta en [github.com](github.com)
+
+Crear cuenta en [glitch.com](glitch.com)
+
+
+
 
