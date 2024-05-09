@@ -91,9 +91,9 @@ Descargar __Postman__
 
 ### Sesión 8 - Deploy API a Producción 🤖 🕷 MODO Video
 
-Crear cuenta en [github.com](github.com)
+Crear cuenta en [github.com](https://github.com)
 
-Crear cuenta en [glitch.com](glitch.com)
+Crear cuenta en [glitch.com](https://glitch.com)
 
 
 
